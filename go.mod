@@ -1,3 +1,3 @@
-module gangleri.io/pkg/vmod
+module gangleri.com/x/vmod
 
 go 1.19
